@@ -1,0 +1,102 @@
+.request-btn{
+  background-color: black;
+  color: white;
+  border: none;
+  width: 105px;
+  height: 38px;
+  margin-right: 20px;
+}
+.add-cart-btn{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  width: 160px;
+  height: 38px;
+  border: none;
+   margin-right: 20px;
+   border-radius: 30px;
+}
+.signup-btn
+{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 4px;
+  width: 80px;
+  height: 36px;
+
+}
+.get-started-btn
+{
+  background-color: rgb(121, 82, 179);
+  color: white;
+  font-weight: bold;
+  width: 120px;
+  height: 38px;
+  border: none;
+  border-radius: 2px;
+  margin-right: 10px;
+}
+.download-btn{
+  background-color: white;
+  color: rgb(121, 82, 179);
+  width: 120px;
+  height: 38px;
+
+  border-radius: 2px;
+  border-width: 1px;
+  border-color: rgb(121, 82, 179);
+  font-weight: bold;
+  margin-right: 50px;
+}
+.apply-btn{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  font-weight: bolder;
+  border: none;
+  width: 230px;
+  height: 36px;
+  border-radius: 30px;
+  margin-right: 10px;
+  font-size: 14px
+}
+.save-btn
+{
+  background-color: white;
+  color: rgb(10, 102, 194);
+  width: 75px;
+  height: 36px;
+  border-color: rgb(10, 102, 194);
+  border-radius: 30px;
+  border-width: 1px;
+  font-weight: bold;
+}
+.stock
+{
+  color: rgb(0, 118, 0);
+  font-weight: 900;
+}
+.back_amazon
+{
+  color: rgb(0, 113, 133);
+}
+.addcart-btn{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  width: 120px;
+  height: 36px;
+  border: none;
+  border-radius: 30px;
+  font-weight: 500;
+  margin-right: 10px;
+}
+.buy-btn
+{
+  background-color: rgb(255, 164 , 28);
+  color: black;
+  width: 120px;
+  height: 36px;
+  border: none;
+  border-radius: 30px;
+  font-weight: 500;
+}
